@@ -28,7 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+https://github.com/ajax3693/Unit-3/assets/122309981/8961baa0-c7bd-4097-bd28-88b36d0aec51
+
+
 
 ## Notes
 
